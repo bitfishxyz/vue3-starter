@@ -1,4 +1,5 @@
 # Vite2.x + Vue3.x + TypeScript Starter
+Hello world.
 
 [![Author](https://img.shields.io/badge/author-XPoet-orange.svg)](https://github.com/XPoet)
 [![License](https://img.shields.io/github/license/XPoet/vite-vue3-starter.svg)](https://github.com/XPoet/vite-vue3-starter/blob/master/LICENSE)
